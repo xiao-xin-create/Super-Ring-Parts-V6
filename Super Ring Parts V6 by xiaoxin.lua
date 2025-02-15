@@ -1,4 +1,4 @@
-"local Players = game:GetService("Players")
+local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
 local SoundService = game:GetService("SoundService")
@@ -673,4 +673,4 @@ TextButton1.Active = true
 TextButton1.MouseButton1Click:Connect(function() 
 loadstring(game:HttpGet("https://pastebin.com/raw/ySHJdZpb",true))()
 end)
--- Just that enjoy skidding this lol"
+-- Just that enjoy skidding this lol
